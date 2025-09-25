@@ -1,0 +1,118 @@
+Roadmap for: Data science
+
+**Comprehensive Learning Roadmap for Data Science**
+
+**Phase 1: Fundamentals (3-6 months)**
+
+### Step 1: Learn the Basics of Statistics and Probability (2 months)
+
+* Understand descriptive statistics, probability distributions, and inference.
+* Learn about regression analysis, hypothesis testing, and confidence intervals.
+* Use online resources:
+	+ Khan Academy (Statistics and Probability courses)
+	+ Coursera (Statistics courses)
+	+ edX (Statistics courses)
+* Recommended books: "Statistics in Plain English" by Timothy C. Urdan, "Probability and Statistics for Engineers and Scientists" by Ronald E. Walpole
+
+### Step 2: Get Familiar with Python Programming (2 months)
+
+* Learn the basics of Python programming, including data types, functions, and control structures.
+* Understand how to work with data structures, file input/output, and modules.
+* Use online resources:
+	+ Codecademy (Python course)
+	+ Coursera (Python courses)
+	+ edX (Python courses)
+* Recommended books: "Python Crash Course" by Eric Matthes, "Automate the Boring Stuff with Python" by Al Sweigart
+
+### Step 3: Learn Data Visualization and Communication (1 month)
+
+* Understand the principles of data visualization and how to create effective plots.
+* Learn how to communicate insights and results effectively.
+* Use online resources:
+	+ Tableau (free trial)
+	+ Power BI (free trial)
+	+ matplotlib and seaborn libraries in Python
+* Recommended books: "Visualize This: The FlowingData Guide to Design, Visualization, and Statistics" by Nathan Yau, "Storytelling with Data" by Cole Nussbaumer Knaflic
+
+**Phase 2: Data Science Fundamentals (6-12 months)**
+
+### Step 4: Learn Machine Learning Fundamentals (3-4 months)
+
+* Understand supervised and unsupervised learning, regression, classification, clustering, and dimensionality reduction.
+* Learn how to evaluate and select models.
+* Use online resources:
+	+ Andrew Ng's Machine Learning course on Coursera
+	+ Stanford University's Machine Learning course on edX
+	+ scikit-learn library in Python
+* Recommended books: "Pattern Recognition and Machine Learning" by Christopher M. Bishop, "Machine Learning" by Tom Mitchell
+
+### Step 5: Learn Data Preprocessing and Feature Engineering (2-3 months)
+
+* Understand how to clean, preprocess, and transform data.
+* Learn how to select and create relevant features.
+* Use online resources:
+	+ Kaggle (data science competitions and tutorials)
+	+ pandas and NumPy libraries in Python
+* Recommended books: "Data Preprocessing for Machine Learning" by François Chollet, "Feature Engineering for Data Science" by William S. Cleveland
+
+### Step 6: Learn SQL and Database Fundamentals (1-2 months)
+
+* Understand the basics of SQL and database design.
+* Learn how to query and manipulate data.
+* Use online resources:
+	+ SQL Fiddle (online SQL editor)
+	+ edX (SQL courses)
+* Recommended books: "SQL Queries for Mere Mortals" by John D. Cook, "Database Systems: The Complete Book" by Hector Garcia-Molina
+
+**Phase 3: Specialization and Advanced Topics (6-12 months)**
+
+### Step 7: Learn Deep Learning (3-6 months)
+
+* Understand the basics of neural networks, convolutional neural networks, and recurrent neural networks.
+* Learn how to implement and train deep learning models.
+* Use online resources:
+	+ Stanford University's Deep Learning course on Coursera
+	+ TensorFlow and Keras libraries in Python
+* Recommended books: "Deep Learning" by Ian Goodfellow and Yoshua Bengio, "Deep Learning: A Practical Approach" by Jason Weston
+
+### Step 8: Learn Advanced Topics in Data Science (3-6 months)
+
+* Understand topics such as natural language processing, recommender systems, and time series analysis.
+* Learn how to apply these topics to real-world problems.
+* Use online resources:
+	+ Kaggle (data science competitions and tutorials)
+	+ edX (data science courses)
+* Recommended books: "Natural Language Processing (almost) from Scratch" by Collobert et al., "Recommender Systems Handbook" by Francesco Ricci et al.
+
+**Phase 4: Practical Experience and Projects (6-12 months)**
+
+### Step 9: Participate in Data Science Competitions (3-6 months)
+
+* Join data science competitions on Kaggle or other platforms.
+* Apply your skills and knowledge to real-world problems.
+* Use online resources:
+	+ Kaggle (data science competitions)
+	+ edX (data science courses)
+* Recommended books: "Kaggle: A Guide to Data Science Competitions" by Ryan Lowe
+
+### Step 10: Work on Personal Projects (3-6 months)
+
+* Apply your skills and knowledge to real-world problems or personal interests.
+* Use online resources:
+	+ Kaggle (data science competitions)
+	+ edX (data science courses)
+* Recommended books: "Data Science Handbook" by Jake VanderPlas
+
+**Timeline:**
+
+* 3-6 months: Fundamentals (Phase 1)
+* 6-12 months: Data Science Fundamentals (Phase 2)
+* 6-12 months: Specialization and Advanced Topics (Phase 3)
+* 6-12 months: Practical Experience and Projects (Phase 4)
+
+**Note:**
+
+* This is a general roadmap and can be adjusted based on individual needs and goals.
+* It's recommended to learn by doing and practicing with real-world projects and datasets.
+* Online resources and books can be used to supplement learning and provide additional guidance.
+* Data science is a constantly evolving field, and it's essential to stay up-to-date with the latest developments and trends.
